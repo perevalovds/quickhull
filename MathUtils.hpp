@@ -4,6 +4,7 @@
 
 #include "Structs/Vector3.hpp"
 #include "Structs/Ray.hpp"
+#include "Structs/Plane.hpp"
 
 namespace quickhull {
 	
